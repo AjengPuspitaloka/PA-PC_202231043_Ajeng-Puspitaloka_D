@@ -1,4 +1,4 @@
-# PA-PC_202231043_Ajeng Puspitaloka_D
+# PA-PC_202231043_AjengPuspitaloka_D
 ### Mengimpor Library
 import cv2
 import matplotlib.pyplot as plt
